@@ -1,12 +1,26 @@
-/*font-family: 'Sorts Mill Goudy', serif;*/
-h1{
-	font-family: 'Sorts Mill Goudy', serif;
-	font-weight: normal: 100;
+/*.offwhite{color: #fce7d6;
+}
+.black{color: #000112;
+}
+.blue{color: #6568ad;
+}
+.white{color: #fdf4e3;
+}*/
+body{
+	color:#000112;
+	/*background-color:#fdf4e3;*/
+	background:url("../img/kindajean.png");
+}
 
+a{
+	color:#6568ad;
 }
-.new{
-	color:red;
+.highlight{
+	background-color:#fce7d6;
 }
-.logo{
-	font-size:4em;
+ul
+{
+list-style-type: none;
+padding: 0px;
+margin: 0px;
 }
